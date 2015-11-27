@@ -1,7 +1,7 @@
 name: Lisa Lent Photography
 favicon: null
-layout_spectrum: 0.75552
-typography_spectrum: 0.482
+layout_spectrum: 0.65823
+typography_spectrum: 0.53516
 title: Lisa Lent Photography
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#737373'
     - '#fe7d06'
     - '#9e9e9e'
-  brandStrength: 0.5
-  lightness: 0.625
+  brandStrength: 0.0625
+  lightness: 0.75
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
